@@ -1,0 +1,22 @@
+{
+  "name": "ipapi",
+  "version": "1.0.0",
+  "description": "IP Connection API Interface for Locating IP addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Encke/IPAPI.git"
+  },
+  "author": "Encke Technologies, SRL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Encke/IPAPI/issues"
+  },
+  "homepage": "https://github.com/Encke/IPAPI#readme",
+  "dependencies": {
+    "nk-node": "^1.0.7"
+  }
+}
